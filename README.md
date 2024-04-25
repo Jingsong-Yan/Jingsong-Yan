@@ -1,6 +1,6 @@
 
 ![code submit](https://github-readme-stats.vercel.app/api?username=Jingsong-Yan)
-![Leetcode Info](https://stats.justsong.cn/api/leetcode?username=一学&cn=true)
+![Leetcode Info](https://stats.justsong.cn/api/leetcode?username=yixue&cn=true)
 
 <!--
 **Jingsong-Yan/Jingsong-Yan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
